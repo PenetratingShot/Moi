@@ -1,8 +1,8 @@
 .hero h1{
-  font-family: Quicksand, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   padding-top: 256px;
   position: absolute;
-  z-index: 50;
+  align: center;
 }
 
 body {
